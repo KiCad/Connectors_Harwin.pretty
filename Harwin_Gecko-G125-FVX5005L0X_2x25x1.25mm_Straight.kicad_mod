@@ -1,4 +1,4 @@
-(module Harwin_Gecko-G125-FVX5005L0X_2x25x1.25mm_Straight (layer F.Cu) (tedit 5741A341)
+(module Harwin_Gecko-G125-FVX5005L0X_2x25x1.25mm_Straight (layer F.Cu) (tedit 575531CA)
   (descr "Harwin Gecko Connector, 50 pins, dual row female, vertical entry, PN:G125-FVX5005L0X")
   (tags "connector harwin gecko")
   (fp_text reference REF** (at 15 4.3) (layer F.SilkS)
