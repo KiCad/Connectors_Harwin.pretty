@@ -1,4 +1,4 @@
-(module Harwin_Gecko-G125-MVX3405L0X_2x17x1.25mm_Straight (layer F.Cu) (tedit 5741A384)
+(module Harwin_Gecko-G125-MVX3405L0X_2x17x1.25mm_Straight (layer F.Cu) (tedit 57553221)
   (descr "Harwin Gecko Connector, 34 pins, dual row male, vertical entry, no latches, PN:G125-MVX3405L0X")
   (tags "connector harwin gecko")
   (fp_text reference REF** (at 10 3.5) (layer F.SilkS)
