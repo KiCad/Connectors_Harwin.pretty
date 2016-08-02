@@ -1,4 +1,4 @@
-(module Harwin_Gecko-G125-MVX2005L1X_2x10x1.25mm_Straight (layer F.Cu) (tedit 57553221)
+(module Harwin_Gecko-G125-MVX2005L1X_2x10x1.25mm_Straight (layer F.Cu) (tedit 57A07DEB)
   (descr "Harwin Gecko Connector, 20 pins, dual row male, vertical entry, with latches, PN:G125-MVX2005L1X")
   (tags "connector harwin gecko")
   (fp_text reference REF** (at 5.625 3.5) (layer F.SilkS)
@@ -74,8 +74,8 @@
   (pad 16 thru_hole circle (at 8.75 -1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask))
   (pad 18 thru_hole circle (at 10 -1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask))
   (pad 20 thru_hole circle (at 11.25 -1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole oval (at -1.25 -0.625) (size 1.1 2) (drill oval 1 1.9) (layers *.Cu))
-  (pad "" np_thru_hole oval (at 12.5 -0.625) (size 1.1 2) (drill oval 1 1.9) (layers *.Cu))
+  (pad "" np_thru_hole oval (at -1.25 -0.625) (size 1.1 2) (drill oval 1 1.9) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at 12.5 -0.625) (size 1.1 2) (drill oval 1 1.9) (layers *.Cu *.Mask))
   (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2005L1X_2x10x1.25mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
