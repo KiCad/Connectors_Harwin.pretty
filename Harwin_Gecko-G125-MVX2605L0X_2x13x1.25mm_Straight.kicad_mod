@@ -1,4 +1,4 @@
-(module Harwin_Gecko-G125-MVX2605L0X_2x13x1.25mm_Straight (layer F.Cu) (tedit 57553221)
+(module Harwin_Gecko-G125-MVX2605L0X_2x13x1.25mm_Straight (layer F.Cu) (tedit 57A07DEB)
   (descr "Harwin Gecko Connector, 26 pins, dual row male, vertical entry, no latches, PN:G125-MVX2605L0X")
   (tags "connector harwin gecko")
   (fp_text reference REF** (at 7.5 3.5) (layer F.SilkS)
