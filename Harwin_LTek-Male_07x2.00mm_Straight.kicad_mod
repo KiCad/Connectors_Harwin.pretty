@@ -44,7 +44,7 @@
   (pad 5 thru_hole circle (at 8 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 10 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 12 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_07x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_07x2.00mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
