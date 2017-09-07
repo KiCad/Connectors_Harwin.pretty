@@ -1,10 +1,13 @@
-(module Harwin_Gecko-G125-FVX2005L0X_2x10x1.25mm_Straight (layer F.Cu) (tedit 575531CA)
+(module Harwin_Gecko-G125-FVX2005L0X_2x10x1.25mm_Straight (layer F.Cu) (tedit 59B16504)
   (descr "Harwin Gecko Connector, 20 pins, dual row female, vertical entry, PN:G125-FVX2005L0X")
   (tags "connector harwin gecko")
   (fp_text reference REF** (at 5.625 4.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value Harwin_Gecko-G125-FVX2005L0X_2x10x1.25mm_Straight (at 5.625 -3.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user %R (at 5.625 0.625) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start -1.15 -1.075) (end -1.9 -1.075) (angle 90) (layer F.SilkS) (width 0.15))
@@ -58,7 +61,7 @@
   (pad 18 thru_hole circle (at 8.75 1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask))
   (pad 18 thru_hole circle (at 10 1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask))
   (pad 20 thru_hole circle (at 11.25 1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask))
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX2005L0X_2x10x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX2005L0X_2x10x1.25mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
