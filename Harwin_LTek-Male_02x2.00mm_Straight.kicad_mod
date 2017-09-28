@@ -37,6 +37,9 @@
   (fp_line (start 0 2.5) (end -0.3 3.1) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.3 3.1) (end 0.3 3.1) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.3 3.1) (end 0 2.5) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0 2.5) (end -0.3 3.1) (layer F.Fab) (width 0.1))
+  (fp_line (start -0.3 3.1) (end 0.3 3.1) (layer F.Fab) (width 0.1))
+  (fp_line (start 0.3 3.1) (end 0 2.5) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole rect (at 0 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_02x2.00mm_Straight.wrl
